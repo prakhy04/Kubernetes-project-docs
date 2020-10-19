@@ -5,7 +5,7 @@
 <?php
 echo "This is Intellipaat's secret!";
   $intelllipaat = getenv('SECRET');
-echo $iintellipaat
+echo $intellipaat
 ?>
 </body>
 </html>
