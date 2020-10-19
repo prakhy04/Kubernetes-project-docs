@@ -4,8 +4,8 @@
 
 <?php
 echo "This is Intellipaat's secret!";
-echo 'My username is ' .$_ENV["$SECRET"] . '!';
+  $intelllipaat = getenv('SECRET');
+echo $iintellipaat
 ?>
-
 </body>
 </html>
